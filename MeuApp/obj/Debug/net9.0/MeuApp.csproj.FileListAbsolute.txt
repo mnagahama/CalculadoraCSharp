@@ -1,0 +1,14 @@
+d:\Programacao\FundamentosCSharp\MeuApp\bin\Debug\net9.0\MeuApp.exe
+d:\Programacao\FundamentosCSharp\MeuApp\bin\Debug\net9.0\MeuApp.deps.json
+d:\Programacao\FundamentosCSharp\MeuApp\bin\Debug\net9.0\MeuApp.runtimeconfig.json
+d:\Programacao\FundamentosCSharp\MeuApp\bin\Debug\net9.0\MeuApp.dll
+d:\Programacao\FundamentosCSharp\MeuApp\bin\Debug\net9.0\MeuApp.pdb
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfoInputs.cache
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfo.cs
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.csproj.CoreCompileInputs.cache
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.dll
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\refint\MeuApp.dll
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.pdb
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\MeuApp.genruntimeconfig.cache
+d:\Programacao\FundamentosCSharp\MeuApp\obj\Debug\net9.0\ref\MeuApp.dll
